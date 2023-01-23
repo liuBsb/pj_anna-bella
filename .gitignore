@@ -1,5 +1,2 @@
 temp/
-*.html
-.gitignore
-!bibliografia.html
-
+.vscode/*
