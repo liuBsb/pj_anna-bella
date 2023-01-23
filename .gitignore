@@ -1,4 +1,5 @@
 temp/
 *.html
-!contato.html
+.gitignore
+!bibliografia.html
 
